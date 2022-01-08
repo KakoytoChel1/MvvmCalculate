@@ -1,0 +1,14 @@
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\bin\Debug\CalculateMVVM.exe.config
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\bin\Debug\CalculateMVVM.exe
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\bin\Debug\CalculateMVVM.pdb
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\App.g.cs
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM_MarkupCompile.cache
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM_MarkupCompile.lref
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.g.resources
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.Properties.Resources.resources
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.csproj.GenerateResource.cache
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.exe
+C:\Users\Ivanchik228\source\repos\CalculateMVVM\CalculateMVVM\obj\Debug\CalculateMVVM.pdb
